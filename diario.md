@@ -9,7 +9,7 @@
 | 10/11/2026 | 4 | Modulo 1 - CSS. Ho creato la scheda CSS | mi è risultato più difficile rispetto html; non riuscivo a capire come utilizzare la notazione CSS |
 | 16/11/2026 | 5 | Modulo 1 - Github. Ho fatto l'esercizio, creando un report| non sono riuscita a aprire il mio file da report |
 | 17/11/2026 | 6 | Modulo 2 - Ho usato per la prima volta Excel | mi è tutto chiaro |
-| 19/11/2026 | 7 | Modulo 2 - Formati, licenze, DC |  |
+| 19/11/2026 | 7 | Modulo 2 - Formati, licenze, DC, Creato nuovo file csv e json, sia sulla cartella sia su VisualStudioCode | Ho fatto inizialmente fatica a capire come collegare la mia cartella a VisualStudioCode per poi linkare csv e json alla scheda html |
 | 23/11/2026 | 8 | Modulo 2 - Il testo letterario |  |
 | 24/11/2026 | 9 | Modulo 2 - LOD e RDF |  |
 | 24/11/2026 | 10 | Modulo 3  |  |
